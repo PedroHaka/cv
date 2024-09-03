@@ -5,6 +5,7 @@ body{
 
 .main-content {
     display:flex;
+    width: 100%;
     padding: 10px;
     margin: auto;
     justify-content: center;
